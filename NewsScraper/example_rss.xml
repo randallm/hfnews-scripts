@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+
+  <title>Example RSS</title>
+  <link>http://www.example.com/</link>
+  <description>Example RSS feed for HFNews.org</description>
+
+  <item>
+    <link>http://news.cnet.com/8301-32973_3-57477293-296/ben-horowitz-fueling-the-tech-boom-and-learning-from-hip-hop/</link>
+    <description>Ricky Rozay Gives Startup Advice</description>
+    <title>Ricky Rozay Gives Startup Advice</title>
+  </item>
+
+  <item>
+    <link>http://blog.twitter.com/2012/08/celebrating-olympic-accomplishments.html</link>
+    <description>Celebrating Olympics in Tweetland</description>
+    <title>Celebrating Olympics in Tweetland</title>
+  </item>
+  <item>
+    <link>http://techcrunch.com/2012/08/03/electronic-arts-sues-zynga-says-the-ville-is-an-unmistakable-copy-of-the-sims/</link>
+    <description>Farmville up to 8 billion players</description>
+    <title>Farmville up to 8 billion players</title>
+  </item>
+
+  <item>
+    <link>http://www.readwriteweb.com/mobile/2012/08/googles-new-nexus-7-tablet-gives-android-an-instant-boost.php</link>
+    <description>Nexus for aliens appears in Utah</description>
+    <title>Nexus for aliens appears in Utah</title>
+  </item>
+  <item>
+    <link>http://arstechnica.com/apple/2012/08/mountain-lion-having-mysterious-effect-on-battery-life-for-some-users/</link>
+    <description>Mountain Lion mauls Bill Clinton</description>
+    <title>Mountain Lion mauls Bill Clinton</title>
+  </item>
+
+</channel>
+</rss>
